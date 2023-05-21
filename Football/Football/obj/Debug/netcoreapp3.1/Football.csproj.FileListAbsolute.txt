@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\oop\Football\Football\bin\Debug\netcoreapp3.1\Football.exe
+C:\Users\PC\Desktop\oop\Football\Football\bin\Debug\netcoreapp3.1\Football.deps.json
+C:\Users\PC\Desktop\oop\Football\Football\bin\Debug\netcoreapp3.1\Football.runtimeconfig.json
+C:\Users\PC\Desktop\oop\Football\Football\bin\Debug\netcoreapp3.1\Football.runtimeconfig.dev.json
+C:\Users\PC\Desktop\oop\Football\Football\bin\Debug\netcoreapp3.1\Football.dll
+C:\Users\PC\Desktop\oop\Football\Football\bin\Debug\netcoreapp3.1\Football.pdb
+C:\Users\PC\Desktop\oop\Football\Football\obj\Debug\netcoreapp3.1\Football.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\oop\Football\Football\obj\Debug\netcoreapp3.1\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\oop\Football\Football\obj\Debug\netcoreapp3.1\Football.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\oop\Football\Football\obj\Debug\netcoreapp3.1\Football.AssemblyInfo.cs
+C:\Users\PC\Desktop\oop\Football\Football\obj\Debug\netcoreapp3.1\Football.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\oop\Football\Football\obj\Debug\netcoreapp3.1\Football.dll
+C:\Users\PC\Desktop\oop\Football\Football\obj\Debug\netcoreapp3.1\Football.pdb
+C:\Users\PC\Desktop\oop\Football\Football\obj\Debug\netcoreapp3.1\Football.genruntimeconfig.cache
